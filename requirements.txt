@@ -1,4 +1,4 @@
 jupyter==1.0.0
 numpy==1.18.2
 opencv-python==4.2.0.32
-XlsxWriter==1.2.8
+openpyxl==3.0.3
